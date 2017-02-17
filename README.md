@@ -14,5 +14,5 @@ Los sprints que se ven durante el Bootcamp son:
 No.  | Sprint
 ---- | ------
 Demo | [Agile](./sprint-demo/README.md)
-0    | Fundamentos de Programación
+0    | [Fundamentos de Programación](./sprint-0/README.md)
 1    | Introducción a Ciencias de la Computación
