@@ -15,4 +15,4 @@ No.  | Sprint
 ---- | ------
 Demo | [Agile](./sprint-demo/README.md)
 0    | [Fundamentos de Programación](./sprint-0/README.md)
-1    | Introducción a Ciencias de la Computación
+1    | [Introducción a Ciencias de la Computación](./sprint-1/README.md)
