@@ -13,7 +13,7 @@ Profundizar en conceptos de programación y conocer las diversas formas, estruct
 
 No. | Lección
 --- | -------
-5   | [Configuración de ambiente de desarrollo](./sprint-1/lecciones/05-configuracion-ambiente-desarrollo/README.md)
+5   | [Configuración de ambiente de desarrollo](./lecciones/05-configuracion-ambiente-desarrollo/README.md)
 6   | Programación estructurada
 7   | TDD (Test Driven Development)
 8   | Modularización de código
