@@ -9,6 +9,12 @@ Instalación de algunas herramientas que se usarán durante el Bootcamp como:
 - Slack
 - NodeJS
 
+Creación de cuentas en:
+
+- Gmail
+- Github
+- Trello
+
 ## Material
 
 Para realizar las instalaciones y configuraciones necesarias puedes revisar:

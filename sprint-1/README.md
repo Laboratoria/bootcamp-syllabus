@@ -14,11 +14,12 @@ Profundizar en conceptos de programación y conocer las diversas formas, estruct
 No. | Lección
 --- | -------
 5   | [Configuración de ambiente de desarrollo](./lecciones/05-configuracion-ambiente-desarrollo/README.md)
-6   | Programación estructurada
-7   | TDD (Test Driven Development)
+6   | [Programación estructurada](./lecciones/06-programacion-estructurada/README.md)
+7   | [TDD (Test Driven Development)](./lecciones/07-tdd/README.md)
 8   | Modularización de código
 9   | Estructura de datos
-10  | Proyecto
+10  | Proyecto intermedio
 11  | Programación orientada a objetos
 12  | Programación funcional
 13  | Programación reactiva
+14  | Proyecto final
