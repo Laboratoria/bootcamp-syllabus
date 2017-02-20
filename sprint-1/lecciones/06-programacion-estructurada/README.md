@@ -24,7 +24,7 @@ Este ejercicio, trata de usar el algoritmo de encriptación *Ceaser Cipher* para
 Ejemplo:
 
 Parámetro  | Input
--  | -
+---------  | -----
 Mensaje | ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Número de desplazamiento | 3
 **Resultado** | DEFGHIJKLMNOPQRSTUVWXYZABC
