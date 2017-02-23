@@ -3,16 +3,14 @@
 ## Objetivos
 Mostrar conceptualmente el desarrollo orientado a pruebas (TDD) y sus ventajas aplicadas en el ciclo de desarrollo de software.
 
-__En esta lección, las estudiantes NO escriben pruebas, solo las ejecutan en navegador__
+__En esta lección, las estudiantes NO escriben pruebas, solo las ejecutan__
 
 ## Prework
+Para tener un concepto mas claro y general de TDD, entrar al siguiente enlace.
 - [Que es TDD y por que todos te odiaran si no lo haces] (https://medium.com/laboratoria-how-to/qué-es-tdd-por-qué-todos-te-odiarán-si-no-lo-haces-63ce217d2bc3)
-
-- Quiz Prework [https://docs.google.com/a/laboratoria.la/forms/d/e/1FAIpQLSdGCah6cNgIYRb1GJOCxQ0cahjbEPkb0IdZoloj6GBysCdQ7w/viewform]
-## Material
-- Presentación
-[https://docs.google.com/presentation/d/1nl4VLZZAbU5dCGV0kMhpDhmWQ8xSXpkPF9QDkYm-JQc/edit?usp=sharing]
 
 
 ## Ejercicios
-Carpeta 02-tdd de es repositorio [https://github.com/Laboratoria/bootcamp-exercises] 
+- Entrar al siguiente enlace [https://github.com/Laboratoria/bootcamp-exercises]
+- Clonar el repositorio
+- Seguir las instrucciones del mismo
