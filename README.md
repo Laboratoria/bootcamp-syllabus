@@ -1,5 +1,14 @@
-![Laboratoria](http://laboratoria.la/app/assets/img/logo_laboratoria-09.svg)
 # Web Development Bootcamp
+
+-------------------------------
+
+Este repostiorio esta deprecatado (ya no se usa) pero su contenido aún es valioso por lo que se mantiene activo. 
+
+Si estas buscando consultar nuestra última curricula puedes ver el siguiente repositorio.
+
+(https://github.com/Laboratoria/curricula-js)[https://github.com/Laboratoria/curricula-js]
+
+-------------------------------
 
 Estimado `<laboratorian>`, aquí encontrarás los enlaces a nuestras currículas del bootcamp (programa intensivo de 6 meses) y cómo han ido cambiando en el tiempo. Estos son las versiones de currícula que tenemos hasta el momento:
 
